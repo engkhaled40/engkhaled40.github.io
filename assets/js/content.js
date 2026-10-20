@@ -5,7 +5,7 @@
 */
 window.SITE = {
   profile: {
-    name: { en: "Khaled Nageeb", ar: "خالد نجيب" },
+    name: { en: "Khaled Naguib Othman", ar: "خالد نجيب عثمان" },
     headline: {
       en: "Production Manager | Plastic Injection Molding & IML | Lean Manufacturing & Continuous Improvement | MBA",
       ar: "مدير إنتاج | حقن البلاستيك والـ IML | التصنيع الرشيق والتحسين المستمر | ماجستير إدارة الأعمال"
@@ -18,7 +18,7 @@ window.SITE = {
     email: "engkhalednageeb@outlook.com",
     linkedin: "https://www.linkedin.com/in/engkhaled-nageeb/",
     photo: "assets/img/khaled.jpg",
-    // To offer a CV download, put the PDF in assets/cv/ and set e.g. cv: "assets/cv/Khaled-Nageeb-CV.pdf"
+    // To offer a CV download, put the PDF in assets/cv/ and set e.g. cv: "assets/cv/Khaled-Naguib-Othman-CV.pdf"
     cv: "",
     careerStart: "2012-09",
     pmStart: "2018-07"
@@ -40,7 +40,7 @@ window.SITE = {
     linkedin: { en: "LinkedIn", ar: "لينكدإن" },
     all: { en: "All", ar: "الكل" },
     present: { en: "Present", ar: "حتى الآن" },
-    footer: { en: "© {year} Khaled Nageeb. All rights reserved.", ar: "© {year} خالد نجيب. جميع الحقوق محفوظة." },
+    footer: { en: "© {year} Khaled Naguib Othman. All rights reserved.", ar: "© {year} خالد نجيب عثمان. جميع الحقوق محفوظة." },
     tags: {
       leadership: { en: "Leadership", ar: "القيادة" },
       lean: { en: "Lean", ar: "التصنيع الرشيق" },
